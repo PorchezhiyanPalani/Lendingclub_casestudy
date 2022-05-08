@@ -1,4 +1,4 @@
-# Lendingclub_casestudy
+# Lendingclub Casestudy
 > Outline a brief description of your project.
 
 
